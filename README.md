@@ -5,8 +5,6 @@ date: 2022-01-12T13:24:02.918Z
 
 # hexo-netlify-cms-vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/waimao365/hexo-netlify-cms-vercel.git)
-
 
 
 hexo-netlify-cms-vercel
