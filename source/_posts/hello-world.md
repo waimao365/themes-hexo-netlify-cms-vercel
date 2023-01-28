@@ -2,9 +2,7 @@
 title: Hello World
 date: 2022-01-12T13:24:02.918Z
 ---
-
 # hexo-netlify-cms-vercel
-
 
 hexo-netlify-cms-vercel
 在Vercel上部署带有Netlify-CMS的Hexo博客。
@@ -51,13 +49,13 @@ hexo-netlify-cms-vercel
 祝贺！您已经在Vercel上成功部署了Netlify-CMS的Hexo博客。
 
 
+
 # 感谢
 
 Netlify CMS的oauth网关由[ublabs/netlify-cms-oauth](https://github.com/ublabs/netlify-cms-oauth). 实现
 
 参考
 https://github.com/hangvane/hexo-netlify-cms-vercel
-
 
 2022年12月1号更新
 网页翻译成中文
@@ -84,3 +82,11 @@ butterfly主题需要安装的插件
 "hexo-abbrlink": "2.2.1",
 
 如果需要升级，可以在搜索插件名称，看下最新的版本是哪个，直接就可以修改了。
+
+插入youtube代码
+
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+
+
+
+
